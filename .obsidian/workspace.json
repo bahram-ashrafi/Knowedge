@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a979570e3eecae0",
+        "id": "294f0adbe10f303f",
         "type": "tabs",
         "children": [
           {
-            "id": "2bba2bb1a7ef3161",
+            "id": "95fd119bed378adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "در اودوو کجا استفاده شده؟.md",
+                "file": "*args و **kwargs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "در اودوو کجا استفاده شده؟"
+              "title": "*args و **kwargs"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,12 +207,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27983c25033a6294",
+  "active": "95fd119bed378adf",
   "lastOpenFiles": [
+    "Yield from.md",
+    "میشه تابع رو ریست کرد؟.md",
+    "در اودوو کجا استفاده شده؟.md",
     "*args و **kwargs.md",
     "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
     "Comprehension.md",
@@ -222,7 +225,6 @@
     "Generators در پایتون.md",
     "generator throw در.md",
     "close().md",
-    "Yield from.md",
     "اگر من بنویسم gen.send(1) آیا همزمان next میشه؟.md",
     "Thread.md",
     "معنی Coroutine چیه . چرا اسمش رو گذاشتن؟.md",
@@ -236,8 +238,6 @@
     "در سینتکس، اگر داخل یک تابع yield باشد، آیا آن تابع تبدیل به Generator Function می‌شود؟.md",
     "Generator Expression.md",
     "چرا اسمش رو گذاشتن generator?.md",
-    "asynchronous programming معمولاً `async/await` انتخاب مناسب‌تری است.md",
-    "asyn[]()chronous programming معمولاً `async/await` انتخاب مناسب‌تری است.md",
     "asyn[]()chronous programming معمولاً `async",
     "asynchronous programming معمولاً `async",
     "Untitled.base",
