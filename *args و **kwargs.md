@@ -1,0 +1,6 @@
+این صفحه W3Schools درباره‌ی `*args` و `**kwargs` است. [صفحه‌ی W3Schools](https://www.w3schools.com/python/python_args_kwargs.asp?utm_source=chatgpt.com)
+
+نکته‌ی مهمی که برای درک عمیق Python باید از این صفحه بگیریم این است که **`args` و `kwargs` اسم خاصی در Python نیستند؛ چیزی که معنا دارد `*` و `**` است**. `*args` آرگومان‌های positional اضافی را جمع می‌کند و نتیجه یک `tuple` می‌شود؛ `**kwargs` آرگومان‌های keyword اضافی را جمع می‌کند و نتیجه یک `dict` می‌شود. مثلاً `f(1, 2, 3)` با `def f(*args)` باعث می‌شود `args == (1, 2, 3)` و `f(name="Ali", age=43)` با `def f(**kwargs)` باعث می‌شود `kwargs == {"name": "Ali", "age": 43}`. ([W3Schools](https://www.w3schools.com/PYTHON/gloss_python_function_arbitrary_arguments.asp?utm_source=chatgpt.com "Python *args"))
+
+و یک نکته‌ی **خیلی مهم‌تر**: باید `*args` و `**kwargs` را از مفهوم **unpacking** جدا کنیم. در `def f(*args)` ستاره یعنی **جمع‌کردن (packing)**، اما در `f(*my_list)` ستاره یعنی **بازکردن (unpacking)**؛ همین‌طور `**` در `def f(**kwargs)` یعنی جمع‌کردن keywordها، ولی در `f(**my_dict)` یعنی بازکردن dictionary. اگر بخواهی، قدم بعدی را دقیقاً روی همین تفاوت **packing vs unpacking** کار کنیم، چون کلید فهم `*args`, `**kwargs`, `yield from` و خیلی از syntaxهای Python است.
+[[Python]]
