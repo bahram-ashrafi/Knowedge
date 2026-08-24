@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4f8d10d98d697e34",
+        "id": "231ddc20d16c33df",
         "type": "tabs",
         "children": [
           {
-            "id": "c6432a5f536bbca9",
+            "id": "018fbfbfd3896b46",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Python.md",
-                "bFile": "Python.md",
-                "aRef": ""
+                "file": "*args و **kwargs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Python  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "*args و **kwargs"
             }
           }
         ]
@@ -199,20 +209,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6432a5f536bbca9",
+  "active": "018fbfbfd3896b46",
   "lastOpenFiles": [
     "Python.md",
     "*args و **kwargs.md",
+    "Comprehension.md",
+    "generator throw در.md",
     "Yield from.md",
     "میشه تابع رو ریست کرد؟.md",
     "در اودوو کجا استفاده شده؟.md",
     "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
-    "Comprehension.md",
     "آیا حالا هم مصرف دارن؟ یا با چیز دیگه ایی جایگزین شدند؟.md",
     "آیا یک حلقه رو میشه به جای for با  generator پیاده کرد؟.md",
     "Generator، Iterator و Iterable چه رابطه‌ای دارند؟.md",
     "Generators در پایتون.md",
-    "generator throw در.md",
     "close().md",
     "اگر من بنویسم gen.send(1) آیا همزمان next میشه؟.md",
     "Thread.md",
