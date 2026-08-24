@@ -3,3 +3,7 @@
 .obsidian/cache/
 .DS_Store
 *.log
+# dotfiles
+.*
+!.gitignore
+*~
