@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "294f0adbe10f303f",
+        "id": "4f8d10d98d697e34",
         "type": "tabs",
         "children": [
           {
-            "id": "95fd119bed378adf",
+            "id": "c6432a5f536bbca9",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aFile": "Python.md",
+                "bFile": "Python.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "title": "Diff: Python  (Working Tree)"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,8 +199,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95fd119bed378adf",
+  "active": "c6432a5f536bbca9",
   "lastOpenFiles": [
+    "Python.md",
     "*args و **kwargs.md",
     "Yield from.md",
     "میشه تابع رو ریست کرد؟.md",
@@ -210,7 +210,6 @@
     "Comprehension.md",
     "آیا حالا هم مصرف دارن؟ یا با چیز دیگه ایی جایگزین شدند؟.md",
     "آیا یک حلقه رو میشه به جای for با  generator پیاده کرد؟.md",
-    "Python.md",
     "Generator، Iterator و Iterable چه رابطه‌ای دارند؟.md",
     "Generators در پایتون.md",
     "generator throw در.md",
