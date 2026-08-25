@@ -16,33 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "1099cf67d66c35bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decorator در Python.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Decorator در Python"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1099cf67d66c35bb",
+  "active": "8af18298c2933c50",
   "lastOpenFiles": [
+    "Preserving Function Metadata.md",
+    "Multiple Decorators.md",
+    "decorator مثال.md",
     "Decorator در Python.md",
     "Scope در Python.md",
     "Yield from.md",
@@ -245,9 +223,6 @@
     "امروزه برای asynchronous programming معمولاً async await انتخاب مناسب‌تری است..md",
     "StopIteration آخر تابع صدا زده میشه؟.md",
     "چه سالی generator ها به پایتون اضافه شدند؟.md",
-    "در جاوا اسکریپت هم داریم Coroutine ؟.md",
-    "توضیح بده coroutine.md",
-    "در سینتکس، اگر داخل یک تابع yield باشد، آیا آن تابع تبدیل به Generator Function می‌شود؟.md",
     "asyn[]()chronous programming معمولاً `async",
     "asynchronous programming معمولاً `async",
     "Untitled.base",
