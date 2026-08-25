@@ -11,13 +11,52 @@
             "id": "8af18298c2933c50",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "مثال برای yield from.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "مثال برای yield from"
+            }
+          },
+          {
+            "id": "1c41138df68182ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lambda Function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lambda Function"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +234,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8af18298c2933c50",
+  "active": "1c41138df68182ea",
   "lastOpenFiles": [
+    "مثال برای yield from.md",
+    "Lambda Function.md",
+    "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
     "Preserving Function Metadata.md",
     "Multiple Decorators.md",
     "decorator مثال.md",
@@ -209,7 +251,6 @@
     "Comprehension.md",
     "میشه تابع رو ریست کرد؟.md",
     "در اودوو کجا استفاده شده؟.md",
-    "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
     "آیا حالا هم مصرف دارن؟ یا با چیز دیگه ایی جایگزین شدند؟.md",
     "آیا یک حلقه رو میشه به جای for با  generator پیاده کرد؟.md",
     "Generator، Iterator و Iterable چه رابطه‌ای دارند؟.md",
@@ -218,11 +259,9 @@
     "اگر من بنویسم gen.send(1) آیا همزمان next میشه؟.md",
     "Thread.md",
     "معنی Coroutine چیه . چرا اسمش رو گذاشتن؟.md",
-    "مثال برای yield from.md",
     "send() در Generator.md",
     "امروزه برای asynchronous programming معمولاً async await انتخاب مناسب‌تری است..md",
     "StopIteration آخر تابع صدا زده میشه؟.md",
-    "چه سالی generator ها به پایتون اضافه شدند؟.md",
     "asyn[]()chronous programming معمولاً `async",
     "asynchronous programming معمولاً `async",
     "Untitled.base",
