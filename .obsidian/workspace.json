@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "231ddc20d16c33df",
+        "id": "d5abed564218e70f",
         "type": "tabs",
         "children": [
           {
-            "id": "018fbfbfd3896b46",
+            "id": "8af18298c2933c50",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1099cf67d66c35bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "*args و **kwargs.md",
+                "file": "Decorator در Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "*args و **kwargs"
+              "title": "Decorator در Python"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.6640625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,13 +220,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "018fbfbfd3896b46",
+  "active": "1099cf67d66c35bb",
   "lastOpenFiles": [
+    "Decorator در Python.md",
+    "Scope در Python.md",
+    "Yield from.md",
+    "generator throw در.md",
     "Python.md",
     "*args و **kwargs.md",
     "Comprehension.md",
-    "generator throw در.md",
-    "Yield from.md",
     "میشه تابع رو ریست کرد؟.md",
     "در اودوو کجا استفاده شده؟.md",
     "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
@@ -235,8 +248,6 @@
     "در جاوا اسکریپت هم داریم Coroutine ؟.md",
     "توضیح بده coroutine.md",
     "در سینتکس، اگر داخل یک تابع yield باشد، آیا آن تابع تبدیل به Generator Function می‌شود؟.md",
-    "Generator Expression.md",
-    "چرا اسمش رو گذاشتن generator?.md",
     "asyn[]()chronous programming معمولاً `async",
     "asynchronous programming معمولاً `async",
     "Untitled.base",
