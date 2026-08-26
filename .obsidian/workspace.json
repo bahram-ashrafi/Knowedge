@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5abed564218e70f",
+        "id": "60b9e572bcb5671e",
         "type": "tabs",
         "children": [
           {
-            "id": "8af18298c2933c50",
+            "id": "c08433320c065d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "مثال برای yield from.md",
+                "file": "*args و **kwargs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "مثال برای yield from"
+              "title": "*args و **kwargs"
             }
           },
           {
-            "id": "1c41138df68182ea",
+            "id": "e8be3ee08ef85359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lambda Function.md",
+                "file": "Iterable و Iterator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lambda Function"
+              "title": "Iterable و Iterator"
+            }
+          },
+          {
+            "id": "0efb34c3db7442fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "چرا به اینصورت نوشته میشه؟__next__.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "چرا به اینصورت نوشته میشه؟__next__"
+            }
+          },
+          {
+            "id": "1ddd189030394002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dunder method.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "dunder method"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,20 +282,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c41138df68182ea",
+  "active": "1ddd189030394002",
   "lastOpenFiles": [
-    "مثال برای yield from.md",
+    "چرا به اینصورت نوشته میشه؟__next__.md",
+    "dunder method.md",
+    "Iterable و Iterator.md",
+    "*args و **kwargs.md",
+    "Decorator در Python.md",
+    "منظور از expression و statement چیست؟.md",
+    "باید در یک سطر نوشته شود؟.md",
     "Lambda Function.md",
+    "مثال برای yield from.md",
     "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
     "Preserving Function Metadata.md",
     "Multiple Decorators.md",
     "decorator مثال.md",
-    "Decorator در Python.md",
     "Scope در Python.md",
     "Yield from.md",
     "generator throw در.md",
     "Python.md",
-    "*args و **kwargs.md",
     "Comprehension.md",
     "میشه تابع رو ریست کرد؟.md",
     "در اودوو کجا استفاده شده؟.md",
@@ -257,11 +310,6 @@
     "Generators در پایتون.md",
     "close().md",
     "اگر من بنویسم gen.send(1) آیا همزمان next میشه؟.md",
-    "Thread.md",
-    "معنی Coroutine چیه . چرا اسمش رو گذاشتن؟.md",
-    "send() در Generator.md",
-    "امروزه برای asynchronous programming معمولاً async await انتخاب مناسب‌تری است..md",
-    "StopIteration آخر تابع صدا زده میشه؟.md",
     "asyn[]()chronous programming معمولاً `async",
     "asynchronous programming معمولاً `async",
     "Untitled.base",
