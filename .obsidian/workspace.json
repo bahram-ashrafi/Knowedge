@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a919ee33fde75a",
+        "id": "8d6e4eaa8c102dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "4f7c21b01f553ca4",
+            "id": "0cb3c0de3bc2a2ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preserving Function Metadata.md",
+                "file": "theme_odoo/ایجاد وب سایت با ویزارد اودوو در نصب ماژول وب سایت.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Preserving Function Metadata"
+              "title": "ایجاد وب سایت با ویزارد اودوو در نصب ماژول وب سایت"
             }
           },
           {
-            "id": "1f64933664b42e2c",
+            "id": "900d2a5eb172f0ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/FastAPI.md",
+                "file": "تفاوت def , async def.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FastAPI"
-            }
-          },
-          {
-            "id": "572e55a0e94e6448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FastAPI/Type Hint.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Type Hint"
+              "title": "تفاوت def , async def"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,13 +234,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "572e55a0e94e6448",
+  "active": "900d2a5eb172f0ab",
   "lastOpenFiles": [
-    "FastAPI/FastAPI.md",
-    "FastAPI/Type Hint.md",
-    "Preserving Function Metadata.md",
-    "FastAPI",
     "theme_odoo/ایجاد وب سایت با ویزارد اودوو در نصب ماژول وب سایت.md",
+    "تفاوت def , async def.md",
+    "Preserving Function Metadata.md",
+    "FastAPI.md",
+    "Type Hint.md",
+    "Python.md",
+    "Python Type Hints → Pydantic → FastAPI.md",
+    "FastAPI",
     "theme_odoo",
     "*args و **kwargs.md",
     "Iterable و Iterator.md",
@@ -281,13 +260,10 @@
     "Scope در Python.md",
     "Yield from.md",
     "generator throw در.md",
-    "Python.md",
     "Comprehension.md",
     "میشه تابع رو ریست کرد؟.md",
     "در اودوو کجا استفاده شده؟.md",
     "آیا حالا هم مصرف دارن؟ یا با چیز دیگه ایی جایگزین شدند؟.md",
-    "آیا یک حلقه رو میشه به جای for با  generator پیاده کرد؟.md",
-    "Generator، Iterator و Iterable چه رابطه‌ای دارند؟.md",
     "asyn[]()chronous programming معمولاً `async",
     "asynchronous programming معمولاً `async",
     "Untitled.base",
