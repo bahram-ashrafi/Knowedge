@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cfe71bfa0cad1f50",
+        "id": "c9a919ee33fde75a",
         "type": "tabs",
         "children": [
           {
-            "id": "966c351419df20ae",
+            "id": "4f7c21b01f553ca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theme_odoo/ایجاد وب سایت با ویزارد اودوو در نصب ماژول وب سایت.md",
+                "file": "Preserving Function Metadata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ایجاد وب سایت با ویزارد اودوو در نصب ماژول وب سایت"
+              "title": "Preserving Function Metadata"
+            }
+          },
+          {
+            "id": "1f64933664b42e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI/FastAPI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "FastAPI"
+            }
+          },
+          {
+            "id": "572e55a0e94e6448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI/Type Hint.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Type Hint"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,8 +258,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "966c351419df20ae",
+  "active": "572e55a0e94e6448",
   "lastOpenFiles": [
+    "FastAPI/FastAPI.md",
+    "FastAPI/Type Hint.md",
+    "Preserving Function Metadata.md",
+    "FastAPI",
     "theme_odoo/ایجاد وب سایت با ویزارد اودوو در نصب ماژول وب سایت.md",
     "theme_odoo",
     "*args و **kwargs.md",
@@ -223,7 +276,6 @@
     "Lambda Function.md",
     "مثال برای yield from.md",
     "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
-    "Preserving Function Metadata.md",
     "Multiple Decorators.md",
     "decorator مثال.md",
     "Scope در Python.md",
@@ -236,8 +288,6 @@
     "آیا حالا هم مصرف دارن؟ یا با چیز دیگه ایی جایگزین شدند؟.md",
     "آیا یک حلقه رو میشه به جای for با  generator پیاده کرد؟.md",
     "Generator، Iterator و Iterable چه رابطه‌ای دارند؟.md",
-    "Generators در پایتون.md",
-    "close().md",
     "asyn[]()chronous programming معمولاً `async",
     "asynchronous programming معمولاً `async",
     "Untitled.base",
