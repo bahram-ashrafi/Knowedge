@@ -101,3 +101,5 @@ await asyncio.sleep(5)
 همچنین FastAPI اجازه می‌دهد `def` و `async def` را با هم استفاده کنی؛ اگر کتابخانه‌ای که استفاده می‌کنی `await` ندارد، مستندات FastAPI می‌گوید می‌توانی endpoint را به شکل معمول `def` تعریف کنی. ([FastAPI](https://fastapi.tiangolo.com/async/ "Concurrency and async / await - FastAPI"))
 
 **پیشنهاد من برای ادامه:** بخش بعدی را از خود مفهوم **`async def` → coroutine → `await` → event loop** باز کنیم؛ چون اگر این چهار مفهوم را درست بفهمی، تقریباً تمام بخش async در FastAPI برایت قابل فهم می‌شود.
+
+[[FastAPI]]
