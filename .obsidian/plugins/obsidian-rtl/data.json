@@ -21,13 +21,13 @@
     "مثال برای yield from.md": "rtl",
     "StopIteration آخر تابع صدا زده میشه؟.md": "rtl",
     "Yield from.md": "rtl",
-    "generator throw در.md": "rtl",
     "اگر من بنویسم gen.send(1) آیا همزمان next میشه؟.md": "rtl",
     "close().md": "rtl",
     "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md": "rtl",
     "Python.md": "rtl",
     "آیا یک حلقه رو میشه به جای for با  generator پیاده کرد؟.md": "rtl",
-    "Comprehension.md": "rtl"
+    "Comprehension.md": "rtl",
+    "throw در generator.md": "rtl"
   },
   "defaultDirection": "rtl",
   "rememberPerFile": true,

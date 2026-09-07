@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "توضیح بده coroutine.md",
+                "file": "اینکه یک coroutine رو به تسک تبدیل میکنیم چه حسنی دارد؟.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "توضیح بده coroutine"
+              "title": "اینکه یک coroutine رو به تسک تبدیل میکنیم چه حسنی دارد؟"
             }
           }
         ]
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed8a3d968483e155",
@@ -211,14 +212,25 @@
   },
   "active": "75d1b9ac28e2ab16",
   "lastOpenFiles": [
+    "تفاوت دقیق coroutine، Task و Future.md",
+    "Thread.md",
+    "Iterable و Iterator.md",
+    "dunder method.md",
+    "throw در generator.md",
+    "Yield from.md",
     "Generators در پایتون.md",
+    "چرا اسمش رو گذاشتن generator?.md",
+    "میشه تابع رو ریست کرد؟.md",
+    "خروجی کد زیر.md",
+    "توضیح بده coroutine.md",
+    "معنی Coroutine چیه . چرا اسمش رو گذاشتن؟.md",
+    "در جاوا اسکریپت هم داریم Coroutine ؟.md",
     "Generator Expression.md",
     "Comprehension.md",
     "close().md",
     "theme_odoo/ایجاد وب سایت با ویزارد اودوو در نصب ماژول وب سایت.md",
     "تفاوت def , async def.md",
     "اینکه یک coroutine رو به تسک تبدیل میکنیم چه حسنی دارد؟.md",
-    "تفاوت دقیق coroutine، Task و Future.md",
     "Event Loop دقیقاً چیست و چگونه چند coroutine را مدیریت می‌کند؟.md",
     "async def → coroutine → await → event loop.md",
     "Preserving Function Metadata.md",
@@ -228,17 +240,6 @@
     "Python Type Hints → Pydantic → FastAPI.md",
     "FastAPI",
     "theme_odoo",
-    "*args و **kwargs.md",
-    "Iterable و Iterator.md",
-    "dunder method.md",
-    "چرا به اینصورت نوشته میشه؟__next__.md",
-    "Decorator در Python.md",
-    "منظور از expression و statement چیست؟.md",
-    "باید در یک سطر نوشته شود؟.md",
-    "Lambda Function.md",
-    "مثال برای yield from.md",
-    "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
-    "Multiple Decorators.md",
     "asyn[]()chronous programming معمولاً `async",
     "asynchronous programming معمولاً `async",
     "Untitled.base",

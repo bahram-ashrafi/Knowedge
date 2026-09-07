@@ -42,4 +42,4 @@ print(list(parent()))
 
 [[Generators در پایتون]]
 
-[[generator throw در]]
+[[throw در generator]]
