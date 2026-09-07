@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "اینکه یک coroutine رو به تسک تبدیل میکنیم چه حسنی دارد؟.md",
+                "file": "منظور از expression و statement چیست؟.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "اینکه یک coroutine رو به تسک تبدیل میکنیم چه حسنی دارد؟"
+              "title": "منظور از expression و statement چیست؟"
             }
           }
         ]
@@ -212,7 +212,11 @@
   },
   "active": "75d1b9ac28e2ab16",
   "lastOpenFiles": [
+    "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
+    "decorator مثال.md",
+    "Decorator در Python.md",
     "تفاوت دقیق coroutine، Task و Future.md",
+    "اینکه یک coroutine رو به تسک تبدیل میکنیم چه حسنی دارد؟.md",
     "Thread.md",
     "Iterable و Iterator.md",
     "dunder method.md",
@@ -230,14 +234,10 @@
     "close().md",
     "theme_odoo/ایجاد وب سایت با ویزارد اودوو در نصب ماژول وب سایت.md",
     "تفاوت def , async def.md",
-    "اینکه یک coroutine رو به تسک تبدیل میکنیم چه حسنی دارد؟.md",
     "Event Loop دقیقاً چیست و چگونه چند coroutine را مدیریت می‌کند؟.md",
     "async def → coroutine → await → event loop.md",
     "Preserving Function Metadata.md",
     "FastAPI.md",
-    "Type Hint.md",
-    "Python.md",
-    "Python Type Hints → Pydantic → FastAPI.md",
     "FastAPI",
     "theme_odoo",
     "asyn[]()chronous programming معمولاً `async",
