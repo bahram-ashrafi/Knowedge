@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "873d948db5096a43",
+        "id": "cac2ca73579b8412",
         "type": "tabs",
         "children": [
           {
-            "id": "996e1f700192651d",
+            "id": "cee318b698ba8455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event Loop دقیقاً چیست و چگونه چند coroutine را مدیریت می‌کند؟.md",
+                "file": "آیا در این حالت کانتکست چند بار اصلاح میشه و دوباره ارسال میشه؟.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Event Loop دقیقاً چیست و چگونه چند coroutine را مدیریت می‌کند؟"
+              "title": "آیا در این حالت کانتکست چند بار اصلاح میشه و دوباره ارسال میشه؟"
             }
           },
           {
-            "id": "3006feb1e234f12d",
+            "id": "fb53b47053f34ffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ورکر چیست؟.md",
+                "file": "مراحل رو بصورت لیست بنویس.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ورکر چیست؟"
+              "title": "مراحل رو بصورت لیست بنویس"
             }
           },
           {
-            "id": "41e932c3c3d9bcec",
+            "id": "352a47d6b9267a7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ورکر با thread چه تفاوتی دارد؟.md",
+                "file": "من وقتی از ایجنت میپرسم «وضعیت سفارش ۱۲۳ را بررسی کن» چه اتفاقی می افتد؟.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ورکر با thread چه تفاوتی دارد؟"
+              "title": "من وقتی از ایجنت میپرسم «وضعیت سفارش ۱۲۳ را بررسی کن» چه اتفاقی می افتد؟"
             }
           },
           {
-            "id": "8a05316d604e9789",
+            "id": "a3874b9e7fd8ec86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "با مثال بگو.md",
+                "file": "llm چطور میفهمد که ایجنت ابزار  get_order_status را دارد؟.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "با مثال بگو"
+              "title": "llm چطور میفهمد که ایجنت ابزار  get_order_status را دارد؟"
             }
           },
           {
-            "id": "b30ffd04431455de",
+            "id": "2c5a033ca051c73e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "مثلا وقتی ۴ کاربر همزمان ریکوییست میزنن به سرور.md",
+                "file": "یه نمونه Tool Definition  Function Schema نشون بده.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "مثلا وقتی ۴ کاربر همزمان ریکوییست میزنن به سرور"
+              "title": "یه نمونه Tool Definition  Function Schema نشون بده"
             }
           },
           {
-            "id": "e55063b5673de5d9",
+            "id": "52c9cbc3db50f76c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "هر ورکر یعنی یک python جداگانه ران میشود؟.md",
+                "file": "ما context رو از کاربر میگیریم و به همراه یک فایل json میفرستیم به ai?.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "هر ورکر یعنی یک python جداگانه ران میشود؟"
+              "title": "ما context رو از کاربر میگیریم و به همراه یک فایل json میفرستیم به ai?"
+            }
+          },
+          {
+            "id": "34a990b5ce152ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "وقتی میخاد order رو بگیره چطور ارتباط میگیره با agent?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "وقتی میخاد order رو بگیره چطور ارتباط میگیره با agent?"
+            }
+          },
+          {
+            "id": "eef69bc644dce112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "پاسخ نهایی توسط AI ساخته می شود?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "پاسخ نهایی توسط AI ساخته می شود?"
+            }
+          },
+          {
+            "id": "875a6d819224104c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "context با متنی که کاربر مینویسد متفاوت است؟.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "context با متنی که کاربر مینویسد متفاوت است؟"
+            }
+          },
+          {
+            "id": "9720e65770a2ec73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "در هنگام استفاده از ایجنت آیا کانتکس رو من باید آماده بکنم؟.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "در هنگام استفاده از ایجنت آیا کانتکس رو من باید آماده بکنم؟"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -330,16 +426,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e55063b5673de5d9",
+  "active": "9720e65770a2ec73",
   "lastOpenFiles": [
-    "مثلا وقتی ۴ کاربر همزمان ریکوییست میزنن به سرور.md",
-    "هر ورکر یعنی یک python جداگانه ران میشود؟.md",
-    "با مثال بگو.md",
-    "ورکر با thread چه تفاوتی دارد؟.md",
-    "ورکر چیست؟.md",
-    "Event Loop دقیقاً چیست و چگونه چند coroutine را مدیریت می‌کند؟.md",
-    "تفاوت def , async def.md",
-    "باید در یک سطر نوشته شود؟.md",
+    "context با متنی که کاربر مینویسد متفاوت است؟.md",
+    "در هنگام استفاده از ایجنت آیا کانتکس رو من باید آماده بکنم؟.md",
+    "پاسخ نهایی توسط AI ساخته می شود?.md",
+    "وقتی میخاد order رو بگیره چطور ارتباط میگیره با agent?.md",
+    "ما context رو از کاربر میگیریم و به همراه یک فایل json میفرستیم به ai?.md",
+    "یه نمونه Tool Definition  Function Schema نشون بده.md",
+    "llm چطور میفهمد که ایجنت ابزار  get_order_status را دارد؟.md",
+    "من وقتی از ایجنت میپرسم «وضعیت سفارش ۱۲۳ را بررسی کن» چه اتفاقی می افتد؟.md",
+    "مراحل رو بصورت لیست بنویس.md",
+    "آیا در این حالت کانتکست چند بار اصلاح میشه و دوباره ارسال میشه؟.md",
+    "مراحل به چه صورت است.md",
+    "harness یک محیط است یا یک pipeline?.md",
+    "ایجنت با rag در ارتباط است؟.md",
+    "آیا RAG خودش متد دارد؟.md",
+    "بصورت لیست نشون بده.md",
+    "اگه من RAG داشته باشم در چه مرحله ایی قرار میگیرد؟.md",
+    "AI RAG.md",
+    "اسکیل در ساخت کانتکست استفاده می شود؟.md",
+    "من میگم ایجنت فرانت رو میخام که از اسکیل فیگما استفاده بکنه؟.md",
+    "skill چیه؟.md",
+    "AI، هارنس (AI Harness).md",
+    "AI.md",
+    "هارنس شامل متدها و api ها هست؟.md",
+    "اجرای tools توسط کدوم انجام میشه؟.md",
+    "agent vs harness.md",
+    "Generators در پایتون.md",
     "Untitled 5.base",
     "Untitled 6.base",
     "Untitled 4.base",
@@ -347,26 +461,8 @@
     "Untitled 1.canvas",
     "Untitled 2.base",
     "Untitled 3.base",
-    "2026-09-08.md",
     "Untitled.canvas",
     "Untitled.base",
-    "منظور از expression و statement چیست؟.md",
-    "تفاوت متد و syntax زبان Python  و built-in function چیست؟.md",
-    "decorator مثال.md",
-    "Decorator در Python.md",
-    "تفاوت دقیق coroutine، Task و Future.md",
-    "اینکه یک coroutine رو به تسک تبدیل میکنیم چه حسنی دارد؟.md",
-    "Thread.md",
-    "Iterable و Iterator.md",
-    "dunder method.md",
-    "throw در generator.md",
-    "Yield from.md",
-    "Generators در پایتون.md",
-    "چرا اسمش رو گذاشتن generator?.md",
-    "میشه تابع رو ریست کرد؟.md",
-    "خروجی کد زیر.md",
-    "توضیح بده coroutine.md",
-    "معنی Coroutine چیه . چرا اسمش رو گذاشتن؟.md",
     "FastAPI",
     "theme_odoo",
     "asyn[]()chronous programming معمولاً `async"
